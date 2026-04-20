@@ -1,0 +1,16 @@
+[remap]
+
+importer="texture_gif"
+importer_version=1
+type="GIFTexture"
+uid="uid://dkd2voir6wc35"
+path="res://.godot/imported/boykissermeme-boykisser.gif-dfb28ed924fc1fdde0c587851596a1c4.res"
+
+[deps]
+
+source_file="res://Textures/boykissermeme-boykisser.gif"
+dest_files=["res://.godot/imported/boykissermeme-boykisser.gif-dfb28ed924fc1fdde0c587851596a1c4.res"]
+
+[params]
+
+storage/compress=true

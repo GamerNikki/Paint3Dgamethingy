@@ -1,0 +1,16 @@
+[remap]
+
+importer="texture_gif"
+importer_version=1
+type="GIFTexture"
+uid="uid://clgco7fxmfv7j"
+path="res://.godot/imported/mauzymice-mauzy.gif-4884d7f024830d044afc1ea37b44ce68.res"
+
+[deps]
+
+source_file="res://Textures/GIFS/mauzymice-mauzy.gif"
+dest_files=["res://.godot/imported/mauzymice-mauzy.gif-4884d7f024830d044afc1ea37b44ce68.res"]
+
+[params]
+
+storage/compress=true
